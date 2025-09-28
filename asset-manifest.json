@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TinhDauHanhTrinh/static/css/main.17cb6f98.css",
+    "main.js": "/TinhDauHanhTrinh/static/js/main.ebb4be11.js",
+    "static/js/453.8c770131.chunk.js": "/TinhDauHanhTrinh/static/js/453.8c770131.chunk.js",
+    "index.html": "/TinhDauHanhTrinh/index.html",
+    "main.17cb6f98.css.map": "/TinhDauHanhTrinh/static/css/main.17cb6f98.css.map",
+    "main.ebb4be11.js.map": "/TinhDauHanhTrinh/static/js/main.ebb4be11.js.map",
+    "453.8c770131.chunk.js.map": "/TinhDauHanhTrinh/static/js/453.8c770131.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17cb6f98.css",
+    "static/js/main.ebb4be11.js"
+  ]
+}
